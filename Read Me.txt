@@ -1,2 +1,0 @@
-Manipulates "dota_english.txt" files in resource folder.
-Some parts are really ugly (still trying to fix it).
